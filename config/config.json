@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "sql12621382",
+    "password": "hWvUZVr8Ml",
+    "database": "sql12621382",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port": "3306"
+
+  },
+  "test": {
+    "username": "sql12621382",
+    "password": "hWvUZVr8Ml",
+    "database": "sql12621382",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "production": {
+    "username": "root",
+    "password": "hWvUZVr8Ml",
+    "database": "sql12621382",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
