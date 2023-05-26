@@ -4,8 +4,8 @@
     "password": "hWvUZVr8Ml",
     "database": "sql12621382",
     "host": "sql12.freemysqlhosting.net",
-    "dialect": "mysql",
-    "port": "3306"
+    "dialect": "mysql"
+  
 
   },
   "test": {
@@ -13,15 +13,15 @@
     "password": "hWvUZVr8Ml",
     "database": "sql12621382",
     "host": "sql12.freemysqlhosting.net",
-    "dialect": "mysql",
-    "port": "3306"
+    "dialect": "mysql"
+  
   },
   "production": {
     "username": "root",
     "password": "hWvUZVr8Ml",
     "database": "sql12621382",
     "host": "sql12.freemysqlhosting.net",
-    "dialect": "mysql",
-    "port": "3306"
+    "dialect": "mysql"
+    
   }
 }
